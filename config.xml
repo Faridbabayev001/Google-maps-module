@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mymodule</name>
+    <displayName><![CDATA[My new module]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[My new modul for test]]></description>
+    <author><![CDATA[Farid Babayev]]></author>
+    <tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall my module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
