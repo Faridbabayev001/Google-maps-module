@@ -1,1 +1,1 @@
-# My new module
+# My First Google Maps Module For PrestaShop
